@@ -1,0 +1,23 @@
+{
+  "name": "phpbb-tg/phpbb-translation",
+  "description": "Tajik Translation of phpBB",
+  "type": "phpbb-language",
+  "homepage": "https://github.com/phpbb-tg/phpbb-translation",
+  "license": "GPL-2.0",
+
+  "require-dev": {
+    "phing/phing": "2.7.*",
+    "phpbb/translation-validator": "1.5.*"
+  },
+  "authors": [
+    {
+      "name": "phpBB Тоҷикистон",
+      "email": "webmaster@phpbb.tj",
+      "homepage": "https://www.phpbb.tj/go/translation-team"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/phpbb-tg/phpbb-translation/issues",
+    "forum": "https://www.phpbb.tg/go/lang-support"
+  }
+}
