@@ -11,13 +11,12 @@
   },
   "authors": [
     {
-      "name": "phpBB Тоҷикистон",
-      "email": "webmaster@phpbb.tj",
-      "homepage": "https://www.phpbb.tj/go/translation-team"
+      "name": "phpBB Тоҷикистон", 
+      "homepage": "https://phpbb-tg.github.io/translation-team"
     }
   ],
   "support": {
     "issues": "https://github.com/phpbb-tg/phpbb-translation/issues",
-    "forum": "https://www.phpbb.tg/go/lang-support"
+    "forum": "https://phpbb-tg.github.io/lang-support"
   }
 }
